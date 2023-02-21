@@ -1,5 +1,5 @@
-## RGB mod for the Sony KV-9PT60 / KV-9PT50
-# (and possibly many others)
+# RGB mod for the Sony KV-9PT60 / KV-9PT50
+## (and possibly many others)
 
 Design created in Kicad
 
